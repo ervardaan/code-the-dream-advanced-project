@@ -23,3 +23,8 @@ This project fetches and displays data from the Spotify API. It shows featured p
 Try to find relations between the playlists and the songs you find on the tracks page by Googling them and find songs of many different languages.
 
 HOPE YOU HAVE FUN
+
+## NEVER ENDING DEVELOPMENT JOURNEY
+- Gaining a strong motivation after developing this project, I have also started developing my own spotify clone filled with natural language processing and machine learning algorithms including, but not limited to, recommender systems.
+- This application is being developed with React, NodeJS,and WebAPI, the same publically available API for Spotify.
+- please check this out: https://github.com/ervardaan/spotify-clone-2
